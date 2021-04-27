@@ -8,7 +8,7 @@ Zahl der probierten Teilspektren: 1
 Spektrometer: USB2+H04734
 Integrationszeit (usec): 65000000 (USB2+H04734)
 Spektren Durchschnitt berechnet: 5 (USB2+H04734)
-Boxcar Glï¿½ttung: 0 (USB2+H04734)
+Boxcar Glättung: 0 (USB2+H04734)
 Dunkelstromkorrektur: Ja (USB2+H04734)
 Puls/Lampe aktiviert: Nein (USB2+H04734)
 Correct for Detector Non-linearity: Nein (USB2+H04734)
